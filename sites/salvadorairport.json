@@ -1,0 +1,28 @@
+{
+    "nome": "Salvador Airport",
+  "site_id": "ssaairport",
+  "url": "https://www.salvador-airport.com.br/pt-br/ru%C3%ADdo-aeron%C3%A1utico",
+
+  "aerodromos": [
+    {
+      "codigo": "SBSV",
+      "nome_aerodromo": "Aeroporto de Salvador",
+
+      
+
+      "monitorar": {
+        "atas": {
+        "tipo": "links",
+        "container_selector": "#collapse5 .accordion-body",
+        "filtro_texto": "Ata da"
+        },
+
+        "relatorios_anuais": {
+        "tipo": "links",
+        "container_selector": "#collapse3 .accordion-body",
+        "filtro_texto": "Relatório Anual de Ruído"
+        }
+      }
+    }
+  ]
+}

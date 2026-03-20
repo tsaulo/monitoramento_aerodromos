@@ -1,0 +1,28 @@
+{
+    "nome": "Manaus Airport",
+  "site_id": "maoairport",
+  "url": "https://www.airport-manaus.com.br/pt-br/ruido-aeronautico",
+
+  "aerodromos": [
+    {
+      "codigo": "SBEG",
+      "nome_aerodromo": "Aeroporto de Manaus",
+
+      
+
+      "monitorar": {
+        "atas": {
+        "tipo": "links",
+        "container_selector": "#collapse3 .accordion-body",
+        "filtro_texto": "Ata de"
+        },
+
+        "relatorios_anuais": {
+        "tipo": "links",
+        "container_selector": "#collapse2 .accordion-body",
+        "filtro_texto": "Relatório Anual de Ruído Aeronáutico 2"
+        }
+      }
+    }
+  ]
+}

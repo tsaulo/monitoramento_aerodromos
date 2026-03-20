@@ -1,0 +1,50 @@
+{
+    "SBSP": {
+        "atas": 4,
+        "relatorios_anuais": 2
+    },
+    "SBRF": {
+        "atas": 7,
+        "relatorios_anuais": 4
+    },
+    "SBJP": {
+        "atas": 8,
+        "relatorios_anuais": 4
+    },
+    "SBMO": {
+        "atas": 8,
+        "relatorios_anuais": 3
+    },
+    "SBAR": {
+        "atas": 8,
+        "relatorios_anuais": 3
+    },
+    "SBCG": {
+        "atas": 4,
+        "relatorios_anuais": 3
+    },
+    "SBUL": {
+        "atas": 4,
+        "relatorios_anuais": 3
+    },
+    "SBBV": {
+        "atas": 8,
+        "relatorios_anuais": 3
+    },
+    "SBBR": {
+        "atas": 18,
+        "relatorios_anuais": 4
+    },
+    "SBEG": {
+        "atas": 7,
+        "relatorios_anuais": 3
+    },
+    "SBPV": {
+        "atas": 7,
+        "relatorios_anuais": 3
+    },
+    "SBSV": {
+        "atas": 9,
+        "relatorios_anuais": 4
+    }
+}

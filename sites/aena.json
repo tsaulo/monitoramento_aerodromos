@@ -1,0 +1,162 @@
+{
+  "nome": "AENA Brasil",
+  "site_id": "aena",
+  "url": "https://www.aenabrasil.com.br/pt/corporativo/meioambiente_sustentabilidade.html",
+
+  "aerodromos": [
+    {
+      "codigo": "SBSP",
+      "nome_aerodromo": "Aeroporto de São Paulo",
+
+      "div_id": "Aeroporto de São Paulo/Congonhas – Deputado Freitas Nobre (SBSP)",
+
+      "monitorar": {
+        "atas": {
+          "secao_titulo": "Ata / Apresentação da CGRA",
+          "palavras_chave": [
+            "Ata de Reunião"
+          ]
+        },
+
+        "relatorios_anuais": {
+          "secao_titulo": "Relatório Anual de Ruído Aeronáutico",
+          "palavras_chave": [
+            "Relatório Anual de Ruído Aeronáutico de"
+          ]
+        }
+      }
+    },
+    {
+      "codigo": "SBRF",
+      "nome_aerodromo": "Aeroporto Internacional do Recife",
+
+      "div_id": "Aeroporto Internacional do Recife/Guararapes – Gilberto Freyre (SBRF)",
+
+      "monitorar": {
+        "atas": {
+          "secao_titulo": "Ata / Apresentação da CGRA",
+          "palavras_chave": [
+            "a Reunião da CGRA"
+          ]
+        },
+
+        "relatorios_anuais": {
+          "secao_titulo": "Relatório Anual de Ruído Aeronáutico",
+          "palavras_chave": [
+            "Relatório Anual de Ruído Aeronáutico de"
+          ]
+        }
+      }
+    },
+    {
+      "codigo": "SBJP",
+      "nome_aerodromo": "Aeroporto Internacional de João Pessoa",
+
+      "div_id": "Aeroporto Internacional de João Pessoa – Presidente Castro Pinto (SBJP)",
+
+      "monitorar": {
+        "atas": {
+          "secao_titulo": "Ata / Apresentação da CGRA",
+          "palavras_chave": [
+            "Reunião da CGRA"
+          ]
+        },
+
+        "relatorios_anuais": {
+          "secao_titulo": "Relatório Anual de Ruído Aeronáutico",
+          "palavras_chave": [
+            "Relatório Anual de Ruído Aeronáutico de"
+          ]
+        }
+      }
+    },
+    {
+      "codigo": "SBMO",
+      "nome_aerodromo": "Aeroporto Internacional de Maceió",
+
+      "div_id": "Aeroporto Internacional de Maceió – Zumbi dos Palmares (SBMO)",
+
+      "monitorar": {
+        "atas": {
+          "secao_titulo": "Ata / Apresentação da CGRA",
+          "palavras_chave": [
+            "Reunião da CGRA"
+          ]
+        },
+
+        "relatorios_anuais": {
+          "secao_titulo": "Relatório Anual de Ruído Aeronáutico",
+          "palavras_chave": [
+            "Relatório Anual de Ruído Aeronáutico de"
+          ]
+        }
+      }
+    },
+    {
+      "codigo": "SBAR",
+      "nome_aerodromo": "Aeroporto Internacional Santa Maria",
+
+      "div_id": "Aeroporto Internacional Santa Maria – Aracaju (SBAR)",
+
+      "monitorar": {
+        "atas": {
+          "secao_titulo": "Ata / Apresentação da CGRA",
+          "palavras_chave": [
+            "Reunião da CGRA"
+          ]
+        },
+
+        "relatorios_anuais": {
+          "secao_titulo": "Relatório Anual de Ruído Aeronáutico",
+          "palavras_chave": [
+            "Relatório Anual de Ruído Aeronáutico de"
+          ]
+        }
+      }
+    },
+    {
+      "codigo": "SBCG",
+      "nome_aerodromo": "Aeroporto Internacional de Campo Grande",
+
+      "div_id": "Aeroporto Internacional de Campo Grande (SBCG)",
+
+      "monitorar": {
+        "atas": {
+          "secao_titulo": "Ata / Apresentação da CGRA",
+          "palavras_chave": [
+            "Reunião da CGRA"
+          ]
+        },
+
+        "relatorios_anuais": {
+          "secao_titulo": "Relatório Anual de Ruído Aeronáutico",
+          "palavras_chave": [
+            "Relatório Anual de Ruído Aeronáutico de"
+          ]
+        }
+      }
+    },
+    {
+      "codigo": "SBUL",
+      "nome_aerodromo": "Aeroporto de Uberlândia",
+
+      "div_id": "Aeroporto de Uberlândia – Tenente Coronel Aviador César Bombonato (SBUL)",
+
+      "monitorar": {
+        "atas": {
+          "secao_titulo": "Ata / Apresentação da CGRA",
+          "palavras_chave": [
+            "a Reunião da CGRA"
+          ]
+        },
+
+        "relatorios_anuais": {
+          "secao_titulo": "Relatório Anual de Ruído Aeronáutico",
+          "palavras_chave": [
+            "Relatório Anual de Ruído Aeronáutico de"
+          ]
+        }
+      }
+    }
+  ]
+}

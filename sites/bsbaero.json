@@ -1,0 +1,32 @@
+{
+    "nome": "BSB Aero",
+  "site_id": "bsbaero",
+  "url": "https://www.bsb.aero/institucional/ruido-aeronautico",
+
+  "aerodromos": [
+    {
+      "codigo": "SBBR",
+      "nome_aerodromo": "Aeroporto de Brasília",
+
+      
+
+      "monitorar": {
+        "atas": {
+        "section_id": "81678",
+          "secao_titulo": "Atas de Reunião",
+          "palavras_chave": [
+            "Ata CGRA"
+          ]
+        },
+
+        "relatorios_anuais": {
+            "section_id": "81677",
+          "secao_titulo": "Relatório Anual de Ruído Aeronáutico",
+          "palavras_chave": [
+            "Relatório Anual Ruído Aeronáutico SBBR 2"
+          ]
+        }
+      }
+    }
+  ]
+}
